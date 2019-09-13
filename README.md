@@ -1,7 +1,7 @@
 # vagus_HRV_code
 Supplementary data for the manuscript "Decoding vagal contributions to fetal heart rate variability" by C.L. Herry et al.
 
-Table S1 (view the latest vesion) reviews the HRV measures used in this study and their physical/physiological meanings.
+[Table S1](https://github.com/martinfrasch/vagus_HRV_code/blob/master/updated%20Table%20S1.pdf) reviews the HRV measures used in this study and their physical/physiological meanings.
 
 [![DOI](https://zenodo.org/badge/169468264.svg)](https://zenodo.org/badge/latestdoi/169468264)
 
